@@ -36,6 +36,7 @@ wonderful folks in the NSLS-II `User Services Office
    October2023.rst
    March2024.rst
    March2025.rst
+   March2026.rst
 
 
 Acknowledgments

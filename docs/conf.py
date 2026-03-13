@@ -18,11 +18,11 @@
 # -- Project information -----------------------------------------------------
 
 project = 'NSLS-II XAS Workshops'
-copyright = '2023-2024, Denis Leshchev, Lu Ma, Bruce Ravel, Eli Stavitski, Akhil Tayal; 2025 Lu Ma, Jorge Moncada Vivas, Bruce Ravel, Eli Stavitski, Akhil Tayal'
+copyright = '2023-2024, Denis Leshchev, Lu Ma, Bruce Ravel, Eli Stavitski, Akhil Tayal; 2025 Lu Ma, Jorge Moncada Vivas, Bruce Ravel, Eli Stavitski, Akhil Tayal, 2026 Steve Farrell, Lu Ma, Jorge Moncada Vivas, Bruce Ravel, Akhil Tayal, Dominick Wierzbicki, Dali Yang'
 author = 'the NSLS-II Hard X-Ray Spectroscopy Group'
 
 # The full version, including alpha/beta/rc tags
-release = 'v2025.03'
+release = 'v2026.03'
 
 rst_prolog = open('prolog','r').read()
 
@@ -50,7 +50,7 @@ templates_path = ['_templates']
 # List of patterns, relative to source directory, that match files and
 # directories to ignore when looking for source files.
 # This pattern also affects html_static_path and html_extra_path.
-exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store']
+exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store', 'my-venv']
 
 
 # -- Options for HTML output -------------------------------------------------

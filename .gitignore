@@ -1,3 +1,9 @@
+
+mendeleev/
+sphinx-book-theme/
+sphinx-math-dollar/
+sphinx-subfigure/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
