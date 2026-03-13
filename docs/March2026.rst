@@ -16,14 +16,16 @@ synchrotron user facilities and attracts diverse scientific
 communities. This 3-day course offered by NSLS-II experts introduced
 XAS data analysis to new and prospective users and provided an
 opportunity to participate in measurements at NSLS-II XAS
-beamlines. The first two days were devoted to the fundamentals of XAS
-analysis, data reduction and processing, and the basics of XAS
-experiments and instrumentation.
+beamlines. 
 
-Participants were trained on XAS data analysis of increasing
-complexity.  Modern XAS methods such as high-resolution spectroscopy
-were be introduced. On the third day, the participants participated in
-experiments at the ISS, QAS, and BMM and toured TES.
+The first two days were devoted to the fundamentals of XAS analysis,
+data reduction and processing, and to the basics of XAS experiments
+and instrumentation.  Participants were trained on XAS data analysis
+of increasing complexity.  Modern XAS methods such as high-resolution
+spectroscopy were introduced.
+
+On the third day, the participants participated in experiments at the
+ISS, QAS, and BMM and toured TES.
 
 `Course page at NSLS-II <https://www.bnl.gov/xascourse/>`__
 
@@ -61,8 +63,8 @@ Tuesday, March 10
    + Presenter: `Elke Arenholz <https://www.bnl.gov/staff/earenholz>`__
    + Slide deck: :download:`2026 XAS Workshop Introduction.pdf
      <_static/March2026/2026 XAS Workshop Introduction.pdf>`
-   + Safety moment: :download:`2025 XAS Workshop Safety.pdf
-     <_static/March2025/2025 XAS Workshop Safety.pdf>`
+   + Safety moment: :download:`Safety_Minute.pdf
+     <_static/March2025/Safety_Minute.pdf>`
 
    | 
 
@@ -106,7 +108,7 @@ Tuesday, March 10
    + crystal data: :download:`FeS2.inp <_static/March2025/FeS2/FeS2.inp>`
      (this is a file format that Artemis can inport)
    + final fitting model: :download:`FeS2_final.fpj <_static/March2025/FeS2/FeS2_final.fpj>`
-   + discussion of FeS\ :sub:`2` final fit: :download:`fes2.pdf <_static/March2025/fes2.pdf>`
+   + discussion of the FeS\ :sub:`2` final fit: :download:`fes2.pdf <_static/March2025/fes2.pdf>`
 
    | 
 
@@ -127,7 +129,8 @@ Wednesday, March 11
 
 :Combined Techniques:
 
-   How XAFS measurements can be combined with other measurement techniques.
+   How XAFS measurements combine with other measurement techniques for
+   deeper scientific insight.
 
    + Presenter: `Lu Ma <https://www.bnl.gov/staff/luma>`__
    + Slide Deck: :download:`combined techniques 2026-1.pdf <_static/March2026/combined techniques 2026-1.pdf>`
@@ -137,7 +140,7 @@ Wednesday, March 11
 :High Energy Resolution Techniques:
 
    Using crystal spectrometers to improve the energy resolution of the
-   XANES measurements
+   XANES measurements.
 
    + Presenter: `Dominick Wierzbicki <https://www.bnl.gov/staff/dwierzbic2>`__
    + Slide Deck: :download:`High-energy-resolution.pdf <_static/March2026/High-energy-resolution.pdf>`
@@ -161,7 +164,7 @@ Wednesday, March 11
 
 :Understanding the EXAFS Equation:
 
-   A deep dive into the meaning of the terms in the EXAFS equation
+   A deep dive into the meaning of the terms in the EXAFS equation.
 
    + Presenter: `Dali Yang <https://www.bnl.gov/staff/dyang5>`__
    + Slide Deck: :download:`XAS_School_EXAFS_Equation_Dali.pdf <_static/March2026/XAS_School_EXAFS_Equation_Dali.pdf>`
@@ -175,7 +178,7 @@ Wednesday, March 11
 
    + Presenter: `Lisa Miller <https://www.bnl.gov/staff/lmiller>`__
    + Slide deck: :download:`2026-03-11 XAS course-proposal writing.pdf <_static/March2026/2026-03-11 XAS course-proposal writing.pdf>` 
-   + Beamlines slides: :download:`XAS_Beamlines.pdf <_static/March2026/XAS_Beamlines.pdf>` 
+   + NSLS-II XAS Beamlines: :download:`XAS_Beamlines.pdf <_static/March2026/XAS_Beamlines.pdf>` 
 
    |
 
@@ -186,7 +189,8 @@ Thursday, March 12
 
 :Experimental session: 
 
-   Hands-on XAS data collection at the NSLS-II hard X-ray spectroscopy beamlines
+   Hands-on XAS data collection at the NSLS-II hard X-ray spectroscopy
+   beamlines.
 
    + `QAS <https://www.bnl.gov/nsls2/beamlines/beamline.php?r=7-BM>`__
    + `BMM <https://www.bnl.gov/nsls2/beamlines/beamline.php?r=6-BM>`__
@@ -205,8 +209,7 @@ Data from BMM
 
 During the hands-on experiment at BMM in the afternoon, we measured
 several Mn standards along with the mineral `babingtonite
-<https://en.wikipedia.org/wiki/Babingtonite>`__ in fluorescence at the
-Mn and Fe edges.
+<https://en.wikipedia.org/wiki/Babingtonite>`__ in fluorescence.
 
 Zip file containing these data and the full electronic log book:
 :download:`BMM-data.zip <_static/March2026/BMM-data.zip>`
