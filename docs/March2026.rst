@@ -64,7 +64,7 @@ Tuesday, March 10
    + Slide deck: :download:`2026 XAS Workshop Introduction.pdf
      <_static/March2026/2026 XAS Workshop Introduction.pdf>`
    + Safety moment: :download:`Safety_Minute.pdf
-     <_static/March2025/Safety_Minute.pdf>`
+     <_static/March2026/Safety_Minute.pdf>`
 
    | 
 
